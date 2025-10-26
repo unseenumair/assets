@@ -33,5 +33,5 @@ https://cdn.jsdelivr.net/gh/unseenumair/assets/icons/github.svg
 
 ❤️ Credits
 
-Maintained by UmairShakoor (@unseenumair)
+Maintained by UmairShakoor [@unseenumair](https://github.com/unseenumair/)
 > Made with passion for simplicity & open sharing.
