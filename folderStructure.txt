@@ -1,0 +1,24 @@
+assets/
+├── icons/              # Small UI or brand icons (SVG, PNG, etc.)
+│    ├── github.svg
+│    ├── twitter.svg
+│    └── menu.svg
+│
+├── logos/              # Project or brand logos
+│    ├── irinto-logo.svg
+│    └── personal-logo.svg
+│
+├── illustrations/      # Larger SVG or PNG artwork / hero images
+│    └── landing-hero.svg
+│
+├── images/             # General purpose photos, banners, etc.
+│    └── bg-pattern.png
+│
+├── backgrounds/        # Abstract or pattern backgrounds
+│    └── wave-bg.svg
+│
+├── ui/                 # UI elements like loaders, buttons, etc.
+│    └── spinner.svg
+│
+└── misc/               # Anything else (temporary or uncategorized)
+     └── placeholder.png
