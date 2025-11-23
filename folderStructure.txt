@@ -5,7 +5,7 @@ assets/
 │    └── menu.svg
 │
 ├── logos/              # Project or brand logos
-│    ├── irinto-logo.svg
+│    ├── company-logo.svg
 │    └── personal-logo.svg
 │
 ├── illustrations/      # Larger SVG or PNG artwork / hero images
