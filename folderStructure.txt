@@ -22,3 +22,4 @@ assets/
 │
 └── misc/               # Anything else (temporary or uncategorized)
      └── placeholder.png
+
