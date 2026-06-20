@@ -12,11 +12,11 @@ https://cdn.jsdelivr.net/gh/unseenumair/assets/folderName/fileName
 
 **Example :**
 
-https://cdn.jsdelivr.net/gh/unseenumair/assets/icons/html.svg
+https://cdn.jsdelivr.net/gh/unseenumair/assets/icon/html.svg
 
 🪄 *Tip:* Works perfectly inside HTML, CSS, or Markdown:
 ```html
-<img src="https://cdn.jsdelivr.net/gh/unseenumair/assets/icons/html.svg" width="40">
+<img src="https://cdn.jsdelivr.net/gh/unseenumair/assets/icon/html.svg" width="40">
 ```
 
 ---
